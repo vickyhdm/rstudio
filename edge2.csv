@@ -1,0 +1,22 @@
+from,to ,weight,relationship
+Harry Potter,Ron Weasley,3,1
+Harry Potter,Hermione Granger,3,1
+Harry Potter,Dumbledore,2,1
+Harry Potter,Severus Snape,2,1
+Harry Potter,Draco Malfoy,1,1
+Harry Potter,Rubeus Hagrid,3,1
+Ron Weasley,Hermione Granger,3,1
+Ron Weasley,Dumbledore,2,1
+Ron Weasley,Severus Snape,1,1
+Ron Weasley,Draco Malfoy,1,1
+Ron Weasley,Ruberus Hagrid,3,1
+Hermione Granger,Dumbledore,3,1
+Hermione Granger,Severus Snape,1,1
+Hermione Granger,Draco Malfoy,1,1
+Hermione Granger,Ruberus Hagrid,3,1
+Dumbledore,Severus Snape,2,1
+Dumbledore,Draco Malfoy,1,1
+Dumbledore,Ruberus Hagrid,3,1
+Severus Snape,Draco Malfoy,3,1
+Severus Snape,Ruberus Hagrid,2,1
+Draco Malfoy,Ruberus Hagrid,1,1
